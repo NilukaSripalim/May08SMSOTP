@@ -1,5 +1,3 @@
-
-
 import wso2/choreo.sendsms;
 import ballerinax/trigger.asgardeo;
 import ballerina/http;
